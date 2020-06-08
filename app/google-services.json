@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "942199349129",
+    "firebase_url": "https://blogihm.firebaseio.com",
+    "project_id": "blogihm",
+    "storage_bucket": "blogihm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942199349129:android:aaf332f0f4a0b4c2cc0b58",
+        "android_client_info": {
+          "package_name": "com.example.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942199349129-th1hautt7314njm5b3mo4kesadsgatbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO23hHavamqukFvd26z1mqrl_E6ALrMBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942199349129-th1hautt7314njm5b3mo4kesadsgatbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942199349129:android:b0de9467f93290dfcc0b58",
+        "android_client_info": {
+          "package_name": "com.example.ihmblogg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942199349129-th1hautt7314njm5b3mo4kesadsgatbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO23hHavamqukFvd26z1mqrl_E6ALrMBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942199349129-th1hautt7314njm5b3mo4kesadsgatbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
